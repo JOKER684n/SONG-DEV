@@ -5,7 +5,7 @@ Professional WhatsApp and Telegram bot developer
 </p>
 
 <div align="center">
-  <a href="https://whatsapp.com/channel/0029Vb7AkG84inotOc8BXE1K">
+  <a href="https://whatsapp.com/channel/0029VbAG5RS5Ui2WGSUuyt3L">
     ٺـم࣬ ٺحہּٰډيـثَ ۿـﮂ۬أ أݪـم࣬سٰٺــوٰډـ؏ٚ  بٚٺــأࢪيخَ ؍ 🌸♡゙ ُ𓂁 (2026-3-22)
   </a>
 </div>
@@ -17,7 +17,7 @@ Professional WhatsApp and Telegram bot developer
 </div>
 
 <h1 align="center">
-  <span style="color:red; font-size:55px;">𝑺𝑶𝑵𝑯 𝑫𝑬𝑽</span>
+  <span style="color:red; font-size:55px;">𝑺𝑶𝑵𝑮 𝑫𝑬𝑽</span>
 </h1>
 
 <h3 align="center">𝑺𝑶𝑵𝑮 𝑻𝑶𝑷 𝟏 𝑫𝑬𝑽 𝑨𝑹</h3>
