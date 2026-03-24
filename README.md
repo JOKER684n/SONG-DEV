@@ -1,7 +1,7 @@
 # SONG-DEV
 Professional WhatsApp and Telegram bot developer
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mzml-gg/Api-creds.json-/main/IMG-20260320-WA0382.jpg" alt="Balis Banner" width="100%">
+  <img src="https://files.catbox.moe/ehs0lg.jpg" alt="Balis Banner" width="100%">
 </p>
 
 <div align="center">
